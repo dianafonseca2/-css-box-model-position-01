@@ -1,0 +1,24 @@
+div {
+    display: inline-block;
+}
+
+img {
+    width: 400px; height: 300px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.img1 {
+    opacity: 0.7;
+    border-style: groove;
+    border-color: green;
+    border-width: 4px;
+}
+
+.img2 {
+    border-style: dashed;
+    border-color: purple;
+    border-width: 4px;
+}

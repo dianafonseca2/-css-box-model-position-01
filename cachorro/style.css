@@ -1,0 +1,29 @@
+.img1 {
+    border: dashed red 5px;
+    max-width: 200px;
+    margin: 5px; padding: 10px;
+}
+
+.img2 {
+    border: solid purple 10px;
+    max-width: 200px;
+    margin: 5px; padding: 10px;
+}
+
+.img3 {
+    border: ridge green 7px;
+    max-width: 200px;
+    margin: 5px; padding: 10px;
+}
+
+.img4 {
+    border: groove blue 15px;
+    max-width: 200px;
+    margin: 5px; padding: 10px;
+}
+
+.img5 {
+    border: dotted gold 12px;
+    max-width: 200px;
+    margin: 5px; padding: 10px;
+}
